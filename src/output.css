@@ -290,6 +290,9 @@
   .text-\[0px\] {
     font-size: 0px;
   }
+  .text-\[16px\] {
+    font-size: 16px;
+  }
   .text-\[18px\] {
     font-size: 18px;
   }
@@ -331,8 +334,17 @@
   .text-\[2\] {
     color: 2;
   }
+  .text-\[16-x\] {
+    color: 16-x;
+  }
+  .text-\[16\] {
+    color: 16;
+  }
   .text-\[29o\] {
     color: 29o;
+  }
+  .text-\[gray\] {
+    color: gray;
   }
   .text-\[w\] {
     color: w;
@@ -396,6 +408,12 @@
     }
     .lg\:flex {
       display: flex;
+    }
+    .lg\:justify-center {
+      justify-content: center;
+    }
+    .lg\:gap-\[20px\] {
+      gap: 20px;
     }
     .lg\:gap-\[200px\] {
       gap: 200px;
