@@ -178,6 +178,9 @@
   .mt-\[px\] {
     margin-top: px;
   }
+  .ml-\[20px\] {
+    margin-left: 20px;
+  }
   .flex {
     display: flex;
   }
@@ -202,8 +205,14 @@
   .h-\[56px\] {
     height: 56px;
   }
+  .h-\[70px\] {
+    height: 70px;
+  }
   .h-\[80px\] {
     height: 80px;
+  }
+  .h-\[px\] {
+    height: px;
   }
   .h-auto {
     height: auto;
@@ -216,6 +225,9 @@
   }
   .w-\[249px\] {
     width: 249px;
+  }
+  .w-\[326px\] {
+    width: 326px;
   }
   .border-collapse {
     border-collapse: collapse;
@@ -237,6 +249,12 @@
   }
   .gap-\[50px\] {
     gap: 50px;
+  }
+  .gap-\[200px\] {
+    gap: 200px;
+  }
+  .gap-\[px\] {
+    gap: px;
   }
   .rounded-2xl {
     border-radius: var(--radius-2xl);
@@ -266,6 +284,9 @@
   .text-\[18px\] {
     font-size: 18px;
   }
+  .text-\[20px\] {
+    font-size: 20px;
+  }
   .text-\[25px\] {
     font-size: 25px;
   }
@@ -288,6 +309,21 @@
   .text-\[\#167CB5\] {
     color: #167CB5;
   }
+  .text-\[2\] {
+    color: 2;
+  }
+  .text-\[29o\] {
+    color: 29o;
+  }
+  .text-\[w\] {
+    color: w;
+  }
+  .text-\[whit\] {
+    color: whit;
+  }
+  .text-\[white\] {
+    color: white;
+  }
   .underline {
     text-decoration-line: underline;
   }
@@ -307,6 +343,9 @@
     }
     .lg\:mt-\[200px\] {
       margin-top: 200px;
+    }
+    .lg\:mr-\[100px\] {
+      margin-right: 100px;
     }
     .lg\:mb-\[100px\] {
       margin-bottom: 100px;
