@@ -164,6 +164,9 @@
   }
 }
 @layer utilities {
+  .mt-\[0px\] {
+    margin-top: 0px;
+  }
   .mt-\[5px\] {
     margin-top: 5px;
   }
@@ -172,6 +175,9 @@
   }
   .mt-\[30\] {
     margin-top: 30;
+  }
+  .mt-\[30px\] {
+    margin-top: 30px;
   }
   .mt-\[50px\] {
     margin-top: 50px;
